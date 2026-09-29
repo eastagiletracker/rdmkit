@@ -98,3 +98,5 @@ Greece has made significant progress in adopting Open Science policies, aligning
 ## Domain-specific infrastructures or resources 
 The [Greek COVID-19 Portal](https://covid19dataportal.gr/) provides information, guidelines, tools and services to support researchers to utilise Greek and European infrastructures for data sharing. The portal is a national node of the European COVID-19 Data Portal.
 
+
+Test paragraph with no links at all.
